@@ -1,0 +1,27 @@
+
+.postDiv {
+  background-color: #ffffff;
+}
+
+form {
+  background-color: #fff;
+}
+
+.formDiv {
+  margin: 0px 20px 0px 20px;
+}
+
+.postBtn {
+  float: right;
+  margin-bottom: 5px;
+}
+
+.file-field input[type='file'] {
+  width: 70% !important;
+}
+
+.btn {
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 50%;
+  }
